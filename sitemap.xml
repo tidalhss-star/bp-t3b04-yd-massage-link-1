@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tidalhss-star.github.io/bp-t3b04-yd-massage-link-1/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tidalhss-star.github.io/bp-t3b04-yd-massage-link-1/posts/compare-002-3fxuti.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://tidalhss-star.github.io/bp-t3b04-yd-massage-link-1/posts/interview-001-1wluwy1.html</loc>
@@ -43,6 +49,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://tidalhss-star.github.io/bp-t3b04-yd-massage-link-1/posts/qa-001-3fxuti.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://tidalhss-star.github.io/bp-t3b04-yd-massage-link-1/posts/review-001.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -62,7 +74,7 @@
   </url>
   <url>
     <loc>https://tidalhss-star.github.io/bp-t3b04-yd-massage-link-1/feed.xml</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
